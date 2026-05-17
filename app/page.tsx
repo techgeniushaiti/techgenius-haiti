@@ -10,6 +10,10 @@ export default function Home() {
           className="w-64 h-64 object-contain mb-8 animate-pulse drop-shadow-[0_0_25px_#2563eb]"
 
           />
+          
+
+
+
          
         <h1 className="text-6xl md:text-8xl font-black mb-6">
           <span className="text-white">TECH</span>
